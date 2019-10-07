@@ -1,4 +1,4 @@
-# Reading_List
+# Learning Resources
 
 A selection of resources that Trussels have found useful for sharing mental state and aspirations for how we will work together
 
