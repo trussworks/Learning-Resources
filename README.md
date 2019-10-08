@@ -12,6 +12,7 @@ A selection of resources that Trussels have found useful for sharing mental stat
 * A revised/updated edition was released in Oct 2019.
 * [Radical Candor coaching site](https://www.radicalcandor.com/)
 * [Amazon link](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375)
+* [Nice summary](https://docs.google.com/document/d/1EdWgZ-p6Gyi0_el7Hh96bogakvumly7b3T2JSk4Xu1M/edit#heading=h.mvj7l8ktgks1)
 
 ## Subject: Agile Projects
 
