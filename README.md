@@ -49,6 +49,12 @@ A selection of resources that Trussels have found useful for sharing mental stat
 * Recommended by: James
 * [Book site](https://abookapart.com/products/design-for-real-life)
 
+### _Good Services, How to design services that work_
+
+* By Lou Downe
+* Recommended by: Carmen
+* [Book site](https://good.services/)
+
 ## Subject: Diversity & Inclusion
 
 ### _White Fragility_
